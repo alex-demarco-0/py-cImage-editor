@@ -1,1 +1,1 @@
-# py-image-editor
+# py-cImage-editor
